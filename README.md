@@ -1,2 +1,2 @@
 # clozeFuzz
-LLM-based fuzzer for Rust
+LLM-based fuzzer for Rust.
