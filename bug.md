@@ -1,3 +1,4 @@
+# Rust
 ## rustc
 [117696](https://github.com/rust-lang/rust/issues/117696)  
 [117634](https://github.com/rust-lang/rust/issues/117634)  
@@ -37,3 +38,15 @@
 [321](https://github.com/thepowersgang/mrustc/issues/321)  
 [320](https://github.com/thepowersgang/mrustc/issues/320)  
 [318](https://github.com/thepowersgang/mrustc/issues/318)  
+
+# C
+## LLVM
+[87957](https://github.com/llvm/llvm-project/issues/87957)
+[89493](https://github.com/llvm/llvm-project/issues/89493)
+[90330](https://github.com/llvm/llvm-project/issues/90330)
+[92913](https://github.com/llvm/llvm-project/issues/92913)
+## GCC
+[114634](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114634)
+[114638](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114638)
+[114858](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114858)
+[115173](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115173)
