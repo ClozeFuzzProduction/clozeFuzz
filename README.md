@@ -1,7 +1,7 @@
-# clozeFuzz
+# ClozeMaster
 Artifacts for "ClozeMaster: Fuzzing Rust Compiler by Harnessing LLMs for Infilling Masked Real Programs".
 ## Introduction
-ClozeFuzz is a novel fuzzing tool that leverages large language models (LLMs) to generate effective test cases for Rust compilers. The key idea behind ClozeFuzz is to identify the bracket structure of given code and use it to guide the generation of new test cases through masked token completion. 
+ClozeMaster is a novel fuzzing tool that leverages large language models (LLMs) to generate effective test cases for Rust compilers. The key idea behind ClozeMaster is to identify the bracket structure of given code and use it to guide the generation of new test cases through masked token completion. 
 <br>This approach is very simple and easy to implement, and has achieved good practical application results in detecting defects in compilers of complex programming languages with limited training data (such as Rust). It is also easily transferable to the compilers of other relatively mature languages (such as C/C++).
 ## Install
 
@@ -16,7 +16,7 @@ You have to install all the libraries listed in `requirements.txt`
 pip install -r requirements.txt
 ```
 
-Additionally, ClozeFuzz utilizes the [Incoder-1B](https://huggingface.co/facebook/incoder-1B), so please make sure your computer has sufficient memory and GPU resources to run the local inference of the LLM.
+Additionally, ClozeMaster utilizes the [Incoder-1B](https://huggingface.co/facebook/incoder-1B), so please make sure your computer has sufficient memory and GPU resources to run the local inference of the LLM.
 
 ## Usage
 
