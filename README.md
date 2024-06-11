@@ -21,7 +21,11 @@ Additionally, ClozeMaster utilizes the [Incoder-1B](https://huggingface.co/faceb
 ## Usage
 
 ```sh
-python main.py
+python main.py --model_path your_model_path \
+--tokenizer_path your_tokenizer_path \
+--rs_files your_rust_files_path \
+--csv_file path_which_you_want_to_log_the_bug_information \
+--log_file path_which_you_want_to_log_the_fuzzing_progress
 ```
 
 ## Bug found by our tool
