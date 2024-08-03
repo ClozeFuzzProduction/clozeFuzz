@@ -69,7 +69,7 @@ python main.py --model_path your_model_path \
 [321](https://github.com/thepowersgang/mrustc/issues/321)  
 [320](https://github.com/thepowersgang/mrustc/issues/320)  
 [318](https://github.com/thepowersgang/mrustc/issues/318)  
-
+<!--
 ### C
 #### LLVM
 [87957](https://github.com/llvm/llvm-project/issues/87957)  
@@ -81,3 +81,4 @@ python main.py --model_path your_model_path \
 [114638](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114638)  
 [114858](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114858)  
 [115173](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115173)  
+-->
