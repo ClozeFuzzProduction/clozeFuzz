@@ -18,6 +18,7 @@ pip install -r requirements.txt
 
 Additionally, ClozeMaster utilizes the [Incoder-1B](https://huggingface.co/facebook/incoder-1B), so please make sure your computer has sufficient memory and GPU resources to run the local inference of the LLM.
 
+
 ## Usage
 
 ```sh
@@ -82,3 +83,7 @@ python main.py --model_path your_model_path \
 [114858](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114858)  
 [115173](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115173)  
 -->
+
+## Docker Image
+You can download our Docker image tarball at [link](https://drive.google.com/drive/folders/1LQtEQmF2OaM1oU8fuqW9Fetv2nKDJ_Uv?usp=sharing). Our bug data is located in the `/home/cloze` folder. You can run the bug_analysis.py script to reproduce the experimental results.
+
